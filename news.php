@@ -4,11 +4,11 @@
     "newsitems": [
       {
         "gid": "380788575849666406",
-        "title": "Сервер Rust133: <color=lime>online</color>",
+        "title": "Сервер Rust133>>143devblog : <color=lime>online</color>",
         "url": "https://vk.com/topic-91497904_48263434",
         "is_external_url": true,
         "author": "Arcana",
-        "contents": "[img]https://sun9-6.userapi.com/impg/mQ9fHFl2ZFD9BwLap1ypZz0AhU8UkOdytbwSDw/nb19pkzev7M.jpg?size=1684x672&quality=95&sign=cd4fd0ff42dd373c9bcfadd36d043940&type=album[/img] Сервер Rust133: <color=lime>работает</color>\nЕСЛИ В СПИСКЕ СЕРВЕРОВ НЕТ СЕРВЕРА, ТО ДЛЯ ЗАХОДА НА СЕРВЕР ОТКРОЙТЕ КОНСОЛЬ F1 И ВВЕДИТЕ:\n<color=#5af>connect 45.133.235.46:28666</color>\n\nServer Rust133: <color=lime>online</color>\nIF THERE IS NO SERVER IN THE LIST OF SERVERS, TO ENTER THE SERVER, OPEN THE F1 CONSOLE AND ENTER:\n<color=#5af>connect 45.133.235.46:28666</color>",
+        "contents": "[img]https://sun9-6.userapi.com/impg/mQ9fHFl2ZFD9BwLap1ypZz0AhU8UkOdytbwSDw/nb19pkzev7M.jpg?size=1684x672&quality=95&sign=cd4fd0ff42dd373c9bcfadd36d043940&type=album[/img] Сервер Rust133>>143: <color=lime>работает</color>\nЕСЛИ В СПИСКЕ СЕРВЕРОВ НЕТ СЕРВЕРА, ТО ДЛЯ ЗАХОДА НА СЕРВЕР ОТКРОЙТЕ КОНСОЛЬ F1 И ВВЕДИТЕ:\n<color=#5af>connect 45.133.235.46:28777</color>\n\nServer Rust143: <color=lime>online</color>\nIF THERE IS NO SERVER IN THE LIST OF SERVERS, TO ENTER THE SERVER, OPEN THE F1 CONSOLE AND ENTER:\n<color=#5af>connect 45.133.235.46:28777</color>",
         "feedlabel": "Community Announcements",
         "date": 1661526600,
         "feedname": "steam_community_announcements",
